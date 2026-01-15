@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Wezly17
+- 👋 Hi, I’m Tony
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning Xcode / Swift
-- 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me TBA
 - ⚡ Fun fact: I'm also learning German
 
