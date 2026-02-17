@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tony
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning Xcode / Swift
+- 👀 I am an iOS app developer
 - 📫 How to reach me TBA
 - ⚡ Fun fact: I'm also learning German
 
