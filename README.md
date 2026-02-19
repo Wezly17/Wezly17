@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony
-- 👀 I am an iOS app developer
-- 📫 How to reach me TBA
+- 👨🏾‍💻 I am an iOS app developer
+- 📫 You can reach me on Linkedin
 - ⚡ Fun fact: I'm also learning German
 
 <!---
