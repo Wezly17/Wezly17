@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony
 - 👨🏾‍💻 I am an iOS app developer
-- 📫 You can reach me on Linkedin
+- 📫 You can reach me on Linkedin: https://www.linkedin.com/in/tony-wellio-46b07b3a6/
 - ⚡ Fun fact: I'm also learning German
 
 <!---
